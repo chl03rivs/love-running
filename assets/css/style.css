@@ -1,0 +1,21 @@
+/* Wildcard selector to appy changes to all elements */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Header */
+header {
+    background-color: azure;
+}
+
+/* Main Content */
+main {
+    background-color: royalblue;
+}
+
+/* Footer */
+footer {
+    background-color: rgb(151, 28, 208);
+}
