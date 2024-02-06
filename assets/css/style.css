@@ -31,6 +31,10 @@ main {
     flex: 1 0 auto;
 }
 
+#logo {
+    font-family: 'Oswald', sans-serif;
+}
+
 /* Footer */
 footer {
     background-color: rgb(151, 28, 208);
